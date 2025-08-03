@@ -1,0 +1,16 @@
+/** Problem -01 ( Divide the Asset ) */
+
+// case 1
+var area = 100;
+var individualShare1 = area / 2;
+console.log(individualShare1);
+
+// case 2
+var area = 15;
+var individualShare2 = area / 2;
+console.log(individualShare2);
+
+// case 3
+var area = 2060;
+var individualShare3 = area / 2;
+console.log(individualShare3);
